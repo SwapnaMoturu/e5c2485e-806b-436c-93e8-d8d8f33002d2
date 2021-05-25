@@ -5,6 +5,7 @@
     <UserSecretsId>8c7b5a7e-3944-466a-9119-ecbca8cfe717</UserSecretsId>
     <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
     <DockerfileContext>.</DockerfileContext>
+    <DockerComposeProjectPath>docker-compose.dcproj</DockerComposeProjectPath>
   </PropertyGroup>
 
   <ItemGroup>
